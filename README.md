@@ -1,4 +1,5 @@
 # Height-Calculator
+
 Welcome to Height Calculator Android application. This Android app provides a comprehensive solution for users to calculate their height and Body Mass Index (BMI) and compare with others. Some features include:
 
 * Height and BMI Calculation: <br> Easily input your height and weight to receive instant calculations of your BMI.
