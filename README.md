@@ -13,7 +13,7 @@ Welcome to Height Calculator Android application. This Android app provides a co
 * Dynamic Animations: <br> Enhance the user experience with dynamic animations that bring the avatars to life, allowing users to slide and compare their avatars.
 
 
-# Preview:
+# Preview: 
 
 <div>
   <img src="https://github.com/meemanali/Height-Calculator/blob/main/Height%20Caculator%20(1).png" alt="Height Calculator 1" width="210">
